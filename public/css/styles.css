@@ -21,6 +21,7 @@ footer{
     border-top: 3px solid #000000 ;
     margin : 40px  auto;
     flex-direction: column;
+    flex-grow: initial;
 }
 img {
     width : 250px;
