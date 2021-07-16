@@ -1,0 +1,44 @@
+
+body {
+    
+    color : #333333;
+    font-family: arial;
+    max-width: 700px;
+    margin : 40px  auto;
+    padding: 0 70px;
+    background-color: skyblue;
+
+    flex-direction: column;
+}
+
+.main_con
+{
+flex-grow : 1;
+}
+footer{
+    
+    padding : 70px;
+    border-top: 3px solid #000000 ;
+    margin : 40px  auto;
+    flex-direction: column;
+}
+img {
+    width : 250px;
+    height : 300px;
+}
+.green {
+    color : #333333;
+}
+input{
+    border: 1px solid #cccccc;
+    padding: 8px;
+
+}
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    padding: 8px;
+    color : white;
+    background: #888888;
+    
+}
